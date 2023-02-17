@@ -2,7 +2,7 @@ name = "giorgi"
 print(len(name))
 if 6<9:
     print("done")
-full_name =  "giorgi bidjamovi"
+full_name =  "giorgi bijamovi"
 print(len(full_name))
 print(full_name[0])
 print(full_name[10])
